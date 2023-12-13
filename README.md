@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshith03" alt="varshith03" /></a> </p>
 
-- 📫 How to reach me **svarshith.vs@gmail.com**
-
 - 📄 Know about my experiences,education and achivements [https://drive.google.com/file/d/1n4XN_ZLSGJdlxrfEwYdp6PkfAyYxosGG/view?usp=drive_link](https://drive.google.com/file/d/1n4XN_ZLSGJdlxrfEwYdp6PkfAyYxosGG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **svarshith.vs@gmail.com**
 <p align="left">
 </p>
 
