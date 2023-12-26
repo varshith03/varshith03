@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Varshith</h1>
-<h3 align="center">Passionate web developer seeking opportunities to apply both front-end and backend skills. Proficient in HTML, CSS, JavaScript, and backend technologies. Eager to contribute creativity and technical expertise to a dynamic team, creating seamless digital experiences.</h3>
+<h3 align="center">Passionate web developer seeking opportunities to apply both front-end and backend skills. Proficient in HTML, CSS, JavaScript, and frameworks ReactJs, NodeJs and Bootstrap. Eager to contribute creativity and technical expertise to a dynamic team, creating seamless digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshith03&label=Profile%20views&color=0e75b6&style=flat" alt="varshith03" /> </p>
 
