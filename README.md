@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **svarshith.vs@gmail.com**
 
-- 📄 Know about my experiences,education and achivements [RESUME](https://drive.google.com/file/d/1_wwHhljkPdD1cWN1ZVx8u-2uMHRZ0IhV/view?usp=drive_link)
+- 📄 Know about my experiences,education and achivements [RESUME](https://drive.google.com/file/d/1eDeVuRnmoowD1HyX-WZQbF67UjPCNiTi/view?usp=drivesdk)
 
 
 <h3 align="left">Languages and Tools:</h3>
